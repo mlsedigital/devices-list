@@ -38,11 +38,11 @@ List of devices and capabilities
 | 12 | A7+ | 2 | 1.10 - latest |
 | 11 | A7+ | 1 | - 1.16 |
 
-## Upgrading app to minimum iOS 13
+## Minimum iOS 13
 ### Dropping 
 - iPhone 5S and 6 family
 - iPad Air, Air 2, Mini 2, Mini 3
 
-### Upgrading app to minimum iOS 12
+## Minimum iOS 12
 ### Dropping
 - iPhone 5
