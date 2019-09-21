@@ -43,6 +43,6 @@ List of devices and capabilities
 - iPhone 5S and 6 family
 - iPad Air, Air 2, Mini 2, Mini 3
 
-## Minimum iOS 12
+## Minimum iOS 11/12
 ### Dropping
 - iPhone 5
