@@ -4,6 +4,7 @@ List of devices and capabilities
 # iPhone
 | Model | Launch OS | Latest OS | Chipset |
 | ----- | --------- | --------- | ------- |
+| iPhone 11 family | 13 | 13 | A13 |
 | iPhone XR | 12 | 13 | A12 | 
 | iPhone XS family | 12 | 13 | A12 |
 | iPhone X | 11 | 13 | A11 |
@@ -17,6 +18,7 @@ List of devices and capabilities
 # iPad
 | Model | Launch OS | Latest OS | Chipset |
 | ----- | --------- | --------- | ------- |
+| iPad Pro (11, 12.9) (4th) | 13 | 13 | A12Z |
 | iPad Air (2019) | 12 | 13 | A12 | 
 | iPad Mini (2019) | 12 | 13 | A12 | 
 | iPad Pro (11, 12.9) (3rd) | 12 | 13 | A12X |
@@ -34,9 +36,14 @@ List of devices and capabilities
 ## iOS/iPadOS
 | OS Version | Chipset Support | Latest ARKit Support | TM Presence Version |
 | - | - | - | - |
+| 14 | A9+ | 4 | latest |
 | 13 | A8+ | 3 | unsupported |
 | 12 | A7+ | 2 | 1.10 - latest |
-| 11 | A7+ | 1 | - 1.16 |
+| 11 | A7+ | 1 | - 1.26 |
+
+## Minimum iOS 14
+### Dropping
+- Nothing
 
 ## Minimum iOS 13
 ### Dropping 
