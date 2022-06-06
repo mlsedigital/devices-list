@@ -22,8 +22,8 @@ List of devices and capabilities
 | ----- | --------- | --------- | ------- |
 | iPad Pro (11, 12.9) (3rd, 5th) | 14 | 15 | M1 |
 | iPad Pro (11, 12.9) (2nd, 4th) | 13 | 15 | A12Z |
-| iPad Air (2019) | 12 | 15 | A12 | 
-| iPad Mini (2019) | 12 | 15 | A12 | 
+| iPad Air 3 (2019) | 12 | 15 | A12 | 
+| iPad Mini 5 (2019) | 12 | 15 | A12 | 
 | iPad Pro (11, 12.9) (3rd) | 12 | 15 | A12X |
 | iPad (2018) | 11 | 15 | A10 |
 | iPad Pro (10.5, 12.9) (2nd) | 10 | 15 | A10X | 
@@ -39,11 +39,18 @@ List of devices and capabilities
 ## iOS/iPadOS
 | OS Version | Chipset Support | Latest ARKit Support | TM Presence Version |
 | - | - | - | - |
+| 16 | A11+ | 5 | latest |
 | 15 | A9+ | 5 | latest |
 | 14 | A9+ | 4 | latest |
 | 13 | A8+ | 3 | unsupported |
 | 12 | A7+ | 2 | 1.10 - latest |
 | 11 | A7+ | 1 | - 1.26 |
+
+## Minimum iOS 15
+### Dropping
+- iPhone 6S and 7 family
+- iPad Mini 4
+- iPad 4
 
 ## Minimum iOS 15
 ### Dropping
