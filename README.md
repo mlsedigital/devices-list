@@ -4,13 +4,15 @@ List of devices and capabilities
 # iPhone
 | Model | Launch OS | Latest OS | Chipset |
 | ----- | --------- | --------- | ------- |
-| iPhone 13 family | 15 | 15 | A15 |
-| iPhone 12 family | 14 | 15 | A14 |
-| iPhone 11 family | 13 | 15 | A13 |
-| iPhone XR | 12 | 15 | A12 | 
-| iPhone XS family | 12 | 15 | A12 |
-| iPhone X | 11 | 15 | A11 |
-| iPhone 8 family | 11 | 15 | A11 |
+| iPhone 14 familty | 16 | 16 | A15/A16 |
+| iPhone 13 family | 15 | 16 | A15 |
+| iPhone 12 family | 14 | 16 | A14 |
+| iPhone 11 family | 13 | 16 | A13 |
+| iPhone SE 2nd Generation | 13 | 16 | A13 |
+| iPhone XR | 12 | 16 | A12 | 
+| iPhone XS family | 12 | 16 | A12 |
+| iPhone X | 11 | 16 | A11 |
+| iPhone 8 family | 11 | 16 | A11 |
 | iPhone 7 family | 10 | 15 | A10 |
 | iPhone SE | 9 | 15 | A9 |
 | iPhone 6S family | 9 | 15 | A9 |
@@ -46,7 +48,7 @@ List of devices and capabilities
 | 12 | A7+ | 2 | 1.10 - latest |
 | 11 | A7+ | 1 | - 1.26 |
 
-## Minimum iOS 15
+## Minimum iOS 16
 ### Dropping
 - iPhone 6S and 7 family
 - iPad Mini 4
