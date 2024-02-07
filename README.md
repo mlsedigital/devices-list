@@ -4,6 +4,8 @@ List of devices and capabilities
 # iPhone
 | Model | Launch OS | Latest OS | Chipset |
 | ----- | --------- | --------- | ------- |
+| iPhone 15 Pro (Max) | 17 | 17 | A17 Pro |
+| iPhone 15 | 17 | 17 | A16 |
 | iPhone 14 Pro (Max) | 16 | 17 | A16 |
 | iPhone 14 | 16 | 17 | A15 |
 | iPhone 13 family | 15 | 17 | A15 |
