@@ -45,6 +45,10 @@ List of devices and capabilities
 | iPad Air | 7 | 12 | A7 |
 | iPad Mini 2 | 7 | 12 | A7 |
 
+# visionPro
+| Model | Launch OS | Latest OS | Chipset |
+| ----- | --------- | --------- | ------- |
+| visionPro | 1 | 1 | M2 |
 
 ## iOS/iPadOS
 | OS Version | Chipset Support | Latest ARKit Support | TM Presence Version |
