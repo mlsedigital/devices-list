@@ -28,21 +28,25 @@ List of devices and capabilities
 | iPad Pro (11, 12.9) (4th, 6th) | 16 | 17 | M2 |
 | iPad Pro (11, 12.9) (3rd, 5th) | 14 | 17 | M1 |
 | iPad Pro (11, 12.9) (2nd, 4th) | 13 | 17 | A12Z |
-| iPad 10 (2022) | 16 | 16 | A14 |
-| iPad 9 (2021) | 15 | 16 | A13 |
-| iPad 8 (2020) | 14 | 16 | A12 |
-| iPad 7 (2019) | 13 | 16 | A10 |
-| iPad Air 3 (2019) | 12 | 16 | A12 | 
-| iPad Mini 5 (2019) | 12 | 16 | A12 | 
-| iPad Pro (11, 12.9) (3rd) | 12 | 16 | A12X |
-| iPad 6 (2018) | 11 | 16 | A10 |
-| iPad Pro (10.5, 12.9) (2nd) | 10 | 16 | A10X | 
-| iPad (2017) | 10 | 16 | A9 |
+| iPad Pro (11, 12.9) (3rd) | 12 | 17 | A12X |
+| iPad Pro (10.5, 12.9) (2nd) | 10 | 17 | A10X | 
 | iPad Pro (9.7, 12.9) (1st) | 9 | 16 | A9X | 
-| iPad Mini 4 | 9 | 15 | A8 | 
+| iPad 10 (2022) | 16 | 17 | A14 |
+| iPad 9 (2021) | 15 | 17 | A13 |
+| iPad Air 4 (2019) | 12 | 17 | A12 | 
+| iPad 8 (2020) | 14 | 17 | A12 |
+| iPad 7 (2019) | 13 | 17 | A10 |
+| iPad 6 (2018) | 11 | 17 | A10 |
+| iPad 5 (2017) | 10 | 16 | A9 |
+| iPad Air 5 (2022) | 15 | 17 | M1 | 
+| iPad Air 4 (2020) | 14 | 17 | A14 | 
+| iPad Air 3 (2019) | 12 | 17 | A12 | 
 | iPad Air 2 | 8 | 15 | A8X |
-| iPad Mini 3 | 8 | 12 | A7 |
 | iPad Air | 7 | 12 | A7 |
+| iPad Mini 6 (2021) | 15 | 17 | A15 | 
+| iPad Mini 5 (2019) | 12 | 17 | A12 | 
+| iPad Mini 4 | 9 | 15 | A8 | 
+| iPad Mini 3 | 8 | 12 | A7 |
 | iPad Mini 2 | 7 | 12 | A7 |
 
 # visionPro
